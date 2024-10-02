@@ -49,7 +49,7 @@ STR_CARGO_NAME_ALLOY_STEEL                                                      
 STR_CARGO_NAME_ALUMINIUM                                                        :Aluminium
 STR_CARGO_NAME_ALUMINIA                                                         :Tonerde
 STR_CARGO_NAME_AMMONIA                                                          :Ammoniak
-STR_CARGO_NAME_AMMONIUM_NITRATE                                                 :Ammoniak Nitrate
+STR_CARGO_NAME_AMMONIUM_NITRATE                                                 :Ammoniumnitrat
 STR_CARGO_NAME_BAUXITE                                                          :{G=n}Bauxit
 STR_CARGO_NAME_BEANS                                                            :Bohnen
 STR_CARGO_NAME_BUILDING_MATERIALS                                               :{G=p}Baustoffe
